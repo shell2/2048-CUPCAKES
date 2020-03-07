@@ -1,7 +1,7 @@
 String.toLocaleString({
 
 	"it": {
-    "%game-intro"           : "Join the <strong>Cupcakes!</strong>",
+    "%game-intro"           : "Join the <strong>it's   Cupcakes!</strong>",
     "%restart-button"       : "Play Again",
     "%keep-playing-button"  : "Keep going",
     "%retry-button"         : "Retry",
@@ -43,7 +43,7 @@ String.toLocaleString({
 	},
 
   "en": {
-    "%game-intro"           : "Join the <strong>Cupcakes!</strong>",
+    "%game-intro"           : "Join the <strong>en - tina's   Cupcakes!</strong>",
     "%restart-button"       : "Play Again",
     "%keep-playing-button"  : "Keep going",
     "%retry-button"         : "Retry",
